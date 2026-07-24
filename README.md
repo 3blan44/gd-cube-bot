@@ -1,2 +1,1 @@
-# gd-cube-bot
-Geode 
+
