@@ -1,0 +1,13 @@
+{
+    "geode": "3.0.0",
+    "version": "v1.0.0",
+    "id": "com.yourname.cubebot",
+    "name": "Cube Auto-Jump Bot",
+    "developer": "yourname",
+    "description": "Экспериментальный авто-бот для куб-режима: прогнозирует прыжки по ближайшим препятствиям.",
+    "gd": {
+        "win": "*",
+        "android": "*"
+    },
+    "dependencies": []
+}
